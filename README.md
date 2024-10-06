@@ -2,7 +2,7 @@
 
 Applying traditional machine learning techniques using the Scikit-learn library.
 
-### Directory Structure
+### Machine Learning Algorithms
 1. Naive Bayes
 2. Decision Tree Classifier
 3. Support Vector Machine Classifier
